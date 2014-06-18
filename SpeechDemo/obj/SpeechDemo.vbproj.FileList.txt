@@ -1,0 +1,10 @@
+bin\Debug\SpeechDemo.exe
+bin\Debug\SpeechDemo.pdb
+bin\Debug\SpeechDemo.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\SpeechDemo.Form1.resources
+obj\Debug\SpeechDemo.Resources.resources
+obj\Debug\SpeechDemo.vbproj.GenerateResource.Cache
+obj\Debug\SpeechDemo.exe
+obj\Debug\SpeechDemo.xml
+obj\Debug\SpeechDemo.pdb
